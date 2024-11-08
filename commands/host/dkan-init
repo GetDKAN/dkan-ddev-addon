@@ -9,7 +9,7 @@
 # Fail early, fail often.
 set -euo pipefail
 
-export DKAN_REPO=https://github.com/GetDKAN/dkan.git
+export DKAN_REPO=git@github.com:GetDKAN/dkan.git
 export DKAN_REPO_BRANCH=2.x
 export DKAN_DIRECTORY=dkan
 
