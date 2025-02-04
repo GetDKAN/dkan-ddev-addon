@@ -1,0 +1,7 @@
+#ddev-generated
+
+[mysqld]
+local_infile=ON
+
+[client]
+loose-local-infile=ON
